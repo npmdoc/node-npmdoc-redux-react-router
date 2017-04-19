@@ -1,9 +1,14 @@
-# api documentation for  [redux-react-router (v0.4.0)](https://github.com/acdlite/redux-react-router#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-redux-react-router.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-redux-react-router) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-redux-react-router.svg)](https://travis-ci.org/npmdoc/node-npmdoc-redux-react-router)
+# npmdoc-redux-react-router
+
+#### api documentation for  [redux-react-router (v0.4.0)](https://github.com/acdlite/redux-react-router#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-redux-react-router.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-redux-react-router) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-redux-react-router.svg)](https://travis-ci.org/npmdoc/node-npmdoc-redux-react-router)
+
 #### Redux bindings for React Router — keep your router state inside your Redux Store.
 
-[![NPM](https://nodei.co/npm/redux-react-router.png?downloads=true)](https://www.npmjs.com/package/redux-react-router)
+[![NPM](https://nodei.co/npm/redux-react-router.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/redux-react-router)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-redux-react-router/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-redux-react-router_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-redux-react-router/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-redux-react-router/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-redux-react-router/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-redux-react-router/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-redux-react-router/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-redux-react-router/build/screenCapture.npmPackageListing.svg)
 
@@ -17,8 +22,7 @@
 
 {
     "author": {
-        "name": "Andrew Clark",
-        "email": "acdlite@me.com"
+        "name": "Andrew Clark"
     },
     "bugs": {
         "url": "https://github.com/acdlite/redux-react-router/issues"
@@ -64,13 +68,11 @@
     "main": "lib/index.js",
     "maintainers": [
         {
-            "name": "acdlite",
-            "email": "acdlite@me.com"
+            "name": "acdlite"
         }
     ],
     "name": "redux-react-router",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git://github.com/acdlite/redux-react-router.git"
@@ -82,16 +84,6 @@
     "version": "0.4.0"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module redux-react-router](#apidoc.module.redux-react-router)
-
-
-
-# <a name="apidoc.module.redux-react-router"></a>[module redux-react-router](#apidoc.module.redux-react-router)
 
 
 
